@@ -34,7 +34,7 @@ Most genes code for specific proteins or protein segments. We have around 20K pr
 
 A gene can be made up of coding exons and non coding introns from the DNA as shown:
 
-![image.png](image.png)
+![image.png](exons_introns.png)
 
 
 ## Gene expression
